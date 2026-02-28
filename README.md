@@ -1,16 +1,46 @@
-## Hi there 👋
+# Florian Mealing
 
-<!--
-**fmealing/fmealing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Embedded Systems Engineer | Full-Stack Developer | Startup Founder
 
-Here are some ideas to get you started:
+I design and build real-world hardware and software systems, with a focus on embedded devices, robotics, and cloud-connected applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Founder of SyncMove, a production web and mobile platform.
+
+---
+
+## Featured Projects
+
+Smart Gym Tracking Glove  
+ESP32 wearable device using flex sensors and IMU with MQTT cloud integration  
+
+SyncMove  
+Production full-stack web and mobile application built with React, React Native, Node.js, and TypeScript  
+
+Wildlife Park Automated Weighing System  
+ESP32 load cell system transmitting data to cloud database  
+
+Autonomous Robot Waiter  
+Robotics navigation and control software  
+
+Computer Vision Gesture System  
+Real-time hand gesture recognition using Python and MediaPipe  
+
+---
+
+## Technical Skills
+
+Embedded Systems  
+ESP32, Sensors, Embedded C++, MQTT  
+
+Software Development  
+TypeScript, JavaScript, React, React Native, Node.js  
+
+Engineering Tools  
+MATLAB, Simulink, Fusion 360, Figma  
+
+---
+
+## Links
+
+GitHub: https://github.com/fmealing  
+LinkedIn: https://linkedin.com/in/florian-mealing  
