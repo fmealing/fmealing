@@ -1,46 +1,41 @@
-# Florian Mealing
+# Hi, I'm Florian 👋
 
-Embedded Systems Engineer | Full-Stack Developer | Startup Founder
+I'm a Mechatronic and Robotic Engineering student who loves building things that live in the real world.
 
-I design and build real-world hardware and software systems, with a focus on embedded devices, robotics, and cloud-connected applications.
+My work sits at the intersection of embedded systems, robotics, and full-stack software. I've built everything from an ESP32-based smart glove that tracks gym workouts, to autonomous robots, to full production web and mobile apps.
 
-Founder of SyncMove, a production web and mobile platform.
-
----
-
-## Featured Projects
-
-Smart Gym Tracking Glove  
-ESP32 wearable device using flex sensors and IMU with MQTT cloud integration  
-
-SyncMove  
-Production full-stack web and mobile application built with React, React Native, Node.js, and TypeScript  
-
-Wildlife Park Automated Weighing System  
-ESP32 load cell system transmitting data to cloud database  
-
-Autonomous Robot Waiter  
-Robotics navigation and control software  
-
-Computer Vision Gesture System  
-Real-time hand gesture recognition using Python and MediaPipe  
+I'm also the founder of SyncMove, a social fitness platform I designed and built from scratch.
 
 ---
 
-## Technical Skills
+## Things I've built
 
-Embedded Systems  
-ESP32, Sensors, Embedded C++, MQTT  
+🧤 Smart Gym Tracking Glove  
+ESP32 wearable with flex sensors, IMU, and MQTT cloud connection  
 
-Software Development  
-TypeScript, JavaScript, React, React Native, Node.js  
+📱 SyncMove  
+Full-stack web and mobile app built with React, React Native, Node.js, and TypeScript  
 
-Engineering Tools  
-MATLAB, Simulink, Fusion 360, Figma  
+⚖️ Wildlife Park Weighing System  
+Embedded ESP32 system that automatically records animal weights  
+
+🤖 Autonomous Robot Waiter  
+Navigation and control software for a service robot  
+
+👋 Computer Vision Gesture System  
+Real-time hand tracking using Python and MediaPipe  
+
+---
+
+## Tech I use
+
+Embedded: ESP32, C++, sensors, MQTT  
+Software: TypeScript, JavaScript, React, React Native, Node.js  
+Tools: Fusion 360, MATLAB, Simulink, Figma  
 
 ---
 
 ## Links
 
 GitHub: https://github.com/fmealing  
-LinkedIn: https://linkedin.com/in/florian-mealing  
+LinkedIn: https://linkedin.com/in/florian-mealing
